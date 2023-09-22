@@ -2,7 +2,7 @@
 This is the repository of **A survey on image-text multimodal models**, the article offers a thorough review of the current state of research concerning the application of large pretrained models in image-text tasks and provide a perspective on its future development trends. For details, please refer to:
 
 **Vision-Language Models for Vision Tasks: A Survey**  
- [[Paper](www.baidu.com)]
+[Paper](www.baidu.com)
  
 [![arXiv](https://img.shields.io/badge/arXiv-2304.00685-b31b1b.svg)](https://arxiv.org/abs/2304.00685) 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
@@ -77,45 +77,44 @@ If you find our work useful in your research, please consider citing:
 ### Recent Pre-trained Models
 |Paper|Published in|
 |---|:---:|
-|[BERT: pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805)|arXiv 2019|
-|[Roberta: A robustly optimized bert pretraining approach](http://arxiv.org/abs/1907.11692v1)|arXiv 2019|
+|[BERT: pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805)|NAACL 2019|
+|[Roberta: A robustly optimized bert pretraining approach](http://arxiv.org/abs/1907.11692v1)|ICLR 2020|
 |[Spanbert: Improving pre-training by representing and predicting spans](http://dx.doi.org/10.1162/tacl_a_00300)|Transactions of the Association for Computational Linguistics 2020|
-|[Albert: A lite bert for self-supervised learning of language representations](https://arxiv.org/abs/1909.11942)|arXiv 2020|
+|[Albert: A lite bert for self-supervised learning of language representations](https://arxiv.org/abs/1909.11942)|ICLR 2020|
 |[Revisiting pre-trained models for chinese natural language processing](http://dx.doi.org/10.18653/v1/2020.findings-emnlp.58)|ACL 2020|
 |[Language models are unsupervised multitask learners](http://arxiv.org/abs/2010.11855v1)|arXiv 2020|
-|[An image is worth 16x16 words: Transformers for image recognition at scale](http://arxiv.org/abs/2010.11929v2)|arXiv 2020|
+|[An image is worth 16x16 words: Transformers for image recognition at scale](http://arxiv.org/abs/2010.11929v2)|ICLR 2021|
+|[End-to-End Object Detection with Transformers](http://dx.doi.org/10.1007/978-3-030-58452-8_13)|ECCV 2020|
 |[Swin transformer: Hierarchical vision transformer using shifted windows](http://dx.doi.org/10.1109/iccv48922.2021.00986)|ICCV 2021|
-|[End-to-End Object Detection with Transformers](http://dx.doi.org/10.1007/978-3-030-58452-8_13)|ECV 2020|
 |[Pre-training with whole word masking for chinese bert](http://dx.doi.org/10.1109/taslp.2021.3124365)|IEEE/ACM Trans. Audio Speech Lang. Process. 2021|
 |[Llama: Open and efficient foundation language models](http://arxiv.org/abs/2302.13971v1)|arXiv 2023|
 |[Llama 2: Open foundation and fine-tuned chat models](https://arxiv.org/abs/2307.09288)|arXiv 2023|
 ### Current Pre-trained Models
 |Paper|Published in|
 |---|:---:|
-|[Pixel-bert: Aligning image pixels with text by deep multi-modal transformers](https://arxiv.org/abs/2004.00849)|arXiv 2020|
-|[Xlnet: Generalized autoregressive pretraining for language understanding](http://arxiv.org/abs/1906.08237v2)|arXiv 2019|
+|[Xlnet: Generalized autoregressive pretraining for language understanding](http://arxiv.org/abs/1906.08237v2)|NeurIPS 2019|
 |[Lxmert: Learning cross-modality encoder representations from transformers](http://dx.doi.org/10.18653/v1/d19-1514)|ACL 2019|
-|[Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks](https://arxiv.org/abs/1908.02265)|arXiv 2019|
-|[An image is worth 16x16 words: Transformers for image recognition at scale](http://arxiv.org/abs/2010.11929v2)|arXiv 2020|
+|[Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks](https://arxiv.org/abs/1908.02265)|NeurIPS 2019|
+|[Pixel-bert: Aligning image pixels with text by deep multi-modal transformers](https://arxiv.org/abs/2004.00849)|arXiv 2020|
+|[An image is worth 16x16 words: Transformers for image recognition at scale](http://arxiv.org/abs/2010.11929v2)|ICLR 202q|
 |[Vinvl: Revisiting visual representations in vision-language models](http://dx.doi.org/10.1109/cvpr46437.2021.00553)|CVPR 2021|
-|[Unifying vision-and-language tasks via text generation](https://arxiv.org/abs/2102.02779)|arXiv 2021|
-|[Scaling up visual and vision-language representation learning with noisy text supervision](https://arxiv.org/abs/2102.05918)|arXiv 2021|
-|[Learning transferable visual models from natural language supervision](http://arxiv.org/abs/2103.00020v1)|arXiv 2021|
-|[Mdetrmodulated detection for end-to-end multi-modal understanding](https://arxiv.org/abs/2104.12763)|arXiv 2021|
-|[Simvlm: Simple visual language model pretraining with weak supervision](http://arxiv.org/abs/2108.10904v3)|arXiv 2021|
+|[Unifying vision-and-language tasks via text generation](https://arxiv.org/abs/2102.02779)|ICML 2021|
+|[Scaling up visual and vision-language representation learning with noisy text supervision](https://arxiv.org/abs/2102.05918)| PMLR 2021|
+|[Learning transferable visual models from natural language supervision](http://arxiv.org/abs/2103.00020v1)|PMLR 2021|
+|[Mdetrmodulated detection for end-to-end multi-modal understanding](https://arxiv.org/abs/2104.12763)|ICCV 2021|
+|[Simvlm: Simple visual language model pretraining with weak supervision](http://arxiv.org/abs/2108.10904v3)|ICLR 2022|
 |[Glm: General language model pretraining with autoregressive blank infilling](http://dx.doi.org/10.18653/v1/2022.acl-long.26)|ACL 2022|
-|[Glm-130b: An open bilingual pre-trained model](https://arxiv.org/abs/1909.11942)|arXiv 2022|
 |[Scaling instruction-finetuned language models](https://arxiv.org/abs/2210.11416)|arXiv 2022|
 |[Opt: Open pre-trained transformer language models](https://arxiv.org/abs/2205.01068)|arXiv 2022|
-|[BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086)|arXiv 2022|
+|[BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086)|PMLR 2022|
 |[An empirical study of training end-to-end vision-and-language transformers](http://dx.doi.org/10.1109/cvpr52688.2022.01763)|CVPR 2022|
 |[Coca: Contrastive captioners are image-text foundation models](https://arxiv.org/abs/2205.01917)|arXiv 2022|
-|[Image as a foreign language: Beit pretraining for all vision and vision-language tasks](https://arxiv.org/abs/2208.10442)|arXiv 2022|
-|[Training language models to follow instructions with human feedback](http://arxiv.org/abs/2203.02155v1)|arXiv 2022|
-|[OFA: unifying architectures, tasks, and modalities through a simple sequence-to-sequence learning framework](https://arxiv.org/abs/2202.03052)|arXiv 2022|
+|[Training language models to follow instructions with human feedback](http://arxiv.org/abs/2203.02155v1)|NeurIPS 2022|
+|[OFA: unifying architectures, tasks, and modalities through a simple sequence-to-sequence learning framework](https://arxiv.org/abs/2202.03052)|PMLR 2022|
 |[Palm: Scaling language modeling with pathways](http://arxiv.org/abs/2204.02311v5)|arXiv 2022|
 |[Visual instruction tuning](http://arxiv.org/abs/2308.13437v2)|arXiv 2023|
 |[Bloom: A 176b-parameter open-access multilingual language model](https://arxiv.org/abs/2211.05100)|arXiv 2023|
+|[Image as a foreign language: Beit pretraining for all vision and vision-language tasks](https://arxiv.org/abs/2208.10442)|CVPR 2023|
 |[Sparks of artificial general intelligence: Early experiments with gpt-4](http://arxiv.org/abs/2303.12712v5)|arXiv 2023|
 |[Pali: A jointly-scaled multilingual language-image model](https://arxiv.org/abs/2209.06794)|arXiv 2023|
 |[Palm 2 technical report](http://arxiv.org/abs/2305.10403v3)|arXiv 2023|
@@ -124,7 +123,8 @@ If you find our work useful in your research, please consider citing:
 |[BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597)|arXiv 2023|
 |[EVA: exploring the limits of masked visual representation learning at scale](http://dx.doi.org/10.1109/cvpr52729.2023.01855)|CVPR2023|
 |[Exploring the limits of transfer learning with a unified text-to-text transformer](https://arxiv.org/abs/1910.10683)|arXiv 2023|
-|[Alpaca: A strong, replicable instruction-following model](https://crfm.stanford.edu/2023/03/13/alpaca.html)|-|
+|[Glm-130b: An open bilingual pre-trained model](https://arxiv.org/abs/1909.11942)|ICLR 2023|
+|[Alpaca: A strong, replicable instruction-following model](https://crfm.stanford.edu/2023/03/13/alpaca.html)|2023|
 
 ## Applications of Multimodal Modelss in Image- Text Tasks
 ### Image Caption Generation
@@ -171,8 +171,8 @@ If you find our work useful in your research, please consider citing:
 |[Conditional variational autoencoder for neural machine translation](http://arxiv.org/abs/1812.04405v1)|arXiv 2018|
 |[Pre-trained models for natural language processing: A survey](https://arxiv.org/abs/2003.08271)|arXiv 2020|
 |[Detectgan: Gan-based text detector for camera-captured document images](http://dx.doi.org/10.1007/s10032-020-00358-w)|IJDAR 2020|
-|[Diffusion models beat gans on image synthesis](http://arxiv.org/abs/2105.05233v4)|arXiv 2021|
-|[Classifier-free diffusion guidance](https://arxiv.org/abs/2207.12598)|arXiv 2022|
+|[Diffusion models beat gans on image synthesis](http://arxiv.org/abs/2105.05233v4)|NeurIPS 2021 workshop|
+|[Classifier-free diffusion guidance](https://arxiv.org/abs/2207.12598)|NeurIPS 2021|
 |[Face0: Instantaneously conditioning a text-to-image model on a face](https://arxiv.org/abs/2306.06638)|arXiv 2023|
 |[Hyperdreambooth: Hypernetworks for fast personalization of text-to-image models](https://arxiv.org/abs/2307.06949)|arXiv 2023|
 
