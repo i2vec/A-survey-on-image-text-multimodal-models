@@ -4,7 +4,7 @@ This is the repository of **A survey on image-text multimodal models**, the arti
 **Vision-Language Models for Vision Tasks: A Survey**  
 [Paper](www.baidu.com)
  
-[![arXiv](https://img.shields.io/badge/arXiv-2304.00685-b31b1b.svg)](https://arxiv.org/abs/2304.00685) 
+[![arXiv](https://img.shields.io/badge/arXiv-2304.00685-b31b1b.svg)](www.baidu.com) 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
