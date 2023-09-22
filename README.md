@@ -150,7 +150,7 @@ If you find our work useful in your research, please consider citing:
 |[Image-text matching with fine-grained relational dependency and bidirectional attention-based generative networks](http://dx.doi.org/10.1145/3503161.3548058)|MM 2022|
 |[Vision-language matching for text-to-image synthesis via generative adversarial networks](http://dx.doi.org/10.1109/tmm.2022.3217384)|IEEE Trans. Multimedia 2022|
 |[Similarity reasoning and filtration for image-text matching](http://dx.doi.org/10.1609/aaai.v35i2.16209)|AAAI 2022|
-|[Generative label fused network for image-text matching](https://dl.acm.org/doi/10.1016/j.knosys.2023.110280)|-|
+|[Generative label fused network for image-text matching](https://dl.acm.org/doi/10.1016/j.knosys.2023.110280)|2023|
 ### VQA/Visual Reasoning
 |Paper|Published in|
 |---|:---:|
