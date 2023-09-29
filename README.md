@@ -40,7 +40,14 @@ image-text tasks and provide a perspective on its future development trends.
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
-引用论文
+@misc{guo2023survey,
+      title={A Survey on Image-text Multimodal Models}, 
+      author={Ruifeng Guo and Jingxuan Wei and Linzhuang Sun and Bihui Yu and Guiyong Chang and Dawei Liu and Sibo Zhang and Zhengbing Yao and Mingjun Xu and Liping Bu},
+      year={2023},
+      eprint={2309.15857},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 ## Menu
