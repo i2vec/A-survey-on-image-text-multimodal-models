@@ -2,9 +2,9 @@
 This is the repository of **A survey on image-text multimodal models**, the article offers a thorough review of the current state of research concerning the application of large pretrained models in image-text tasks and provide a perspective on its future development trends. For details, please refer to:
 
 **Vision-Language Models for Vision Tasks: A Survey**  
-[Paper](www.baidu.com)
+[Paper](https://arxiv.org/abs/2309.15857)
  
-[![arXiv](https://img.shields.io/badge/arXiv-2304.00685-b31b1b.svg)](www.baidu.com) 
+[![arXiv](https://img.shields.io/badge/arXiv-2309.15857-b31b1b.svg)](https://arxiv.org/abs/2309.15857) 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
