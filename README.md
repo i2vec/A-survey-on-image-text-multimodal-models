@@ -158,6 +158,8 @@ If you find our work useful in your research, please consider citing:
 |[Vision-language matching for text-to-image synthesis via generative adversarial networks](http://dx.doi.org/10.1109/tmm.2022.3217384)|IEEE Trans. Multimedia 2022|
 |[Similarity reasoning and filtration for image-text matching](http://dx.doi.org/10.1609/aaai.v35i2.16209)|AAAI 2022|
 |[Generative label fused network for image-text matching](https://dl.acm.org/doi/10.1016/j.knosys.2023.110280)|2023|
+|[ DocumentCLIP: Linking Figures and Main Body Text in Reflowed Documents](https://arxiv.org/abs/2306.06306)|arXiv 2023|
+|[Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/abs/2306.14565)|arXiv 2023|
 ### VQA/Visual Reasoning
 |Paper|Published in|
 |---|:---:|
