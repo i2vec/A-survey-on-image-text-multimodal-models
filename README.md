@@ -163,10 +163,11 @@ If you find our work useful in your research, please consider citing:
 ### VQA/Visual Reasoning
 |Paper|Published in|
 |---|:---:|
-|[Fvqa: Fact-based visual question answering](http://dx.doi.org/10.1109/tpami.2017.2754246)|IEEE Trans. Pattern Anal. Mach. Intell. 2017|
-|[Towards context-aware interaction recognition for visual relationship detection](http://dx.doi.org/10.1109/iccv.2017.71)|ICCV 2017|
-|[Scene graph generation by iterative message passing](http://dx.doi.org/10.1109/cvpr.2017.330)|CVPR 2017|
-|[Modeling relationships in referential expressions with compositional modular networks](http://dx.doi.org/10.1109/cvpr.2017.470)|CVPR 2017|
+|[Ask Me Anything: Free-form Visual Question Answering Based on Knowledge from External Sources](https://arxiv.org/abs/1511.06973)|IEEE 2017|
+|[https://arxiv.org/abs/2205.01316](https://arxiv.org/abs/2205.01316)|CVPR 2022|
+|[Vision-Language Pre-training: Basics, Recent Advances, and Future Trends
+](https://arxiv.org/abs/2210.09263)|2022|
+|[Grounded Language-Image Pre-training](https://arxiv.org/abs/2112.03857)|CVPR 2022|
 ### Visuall Grounding
 |Paper|Published in|
 |---|:---:|
