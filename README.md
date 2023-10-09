@@ -164,7 +164,7 @@ If you find our work useful in your research, please consider citing:
 |Paper|Published in|
 |---|:---:|
 |[Ask Me Anything: Free-form Visual Question Answering Based on Knowledge from External Sources](https://arxiv.org/abs/1511.06973)|IEEE 2017|
-|[https://arxiv.org/abs/2205.01316](https://arxiv.org/abs/2205.01316)|CVPR 2022|
+|[HL-Net: Heterophily Learning Network for Scene Graph Generation](https://arxiv.org/abs/2205.01316)|CVPR 2022|
 |[Vision-Language Pre-training: Basics, Recent Advances, and Future Trends](https://arxiv.org/abs/2210.09263)|2022|
 |[Grounded Language-Image Pre-training](https://arxiv.org/abs/2112.03857)|CVPR 2022|
 ### Visuall Grounding
