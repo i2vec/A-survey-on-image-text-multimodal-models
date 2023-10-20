@@ -185,6 +185,11 @@ If you find our work useful in your research, please consider citing:
 |[Face0: Instantaneously conditioning a text-to-image model on a face](https://arxiv.org/abs/2306.06638)|arXiv 2023|
 |[Hyperdreambooth: Hypernetworks for fast personalization of text-to-image models](https://arxiv.org/abs/2307.06949)|arXiv 2023|
 
-
+## Star History
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=star-history/star-history&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=star-history/star-history&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date" />
+</picture>
 
 
