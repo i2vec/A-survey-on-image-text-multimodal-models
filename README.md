@@ -192,4 +192,8 @@ If you find our work useful in your research, please consider citing:
   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=i2vec/A-survey-on-image-text-multimodal-models&type=Date" />
 </picture>
 
+## Stargazers
+[![Stargazers repo roster for @i2vec/A-survey-on-image-text-multimodal-models](https://reporoster.com/stars/i2vec/A-survey-on-image-text-multimodal-models)](https://github.com/i2vec/A-survey-on-image-text-multimodal-models/stargazers)
 
+## Forkers
+[![Forkers repo roster for @i2vec/A-survey-on-image-text-multimodal-models](https://reporoster.com/forks/i2vec/A-survey-on-image-text-multimodal-models)](https://github.com/i2vec/A-survey-on-image-text-multimodal-models/network/members)
