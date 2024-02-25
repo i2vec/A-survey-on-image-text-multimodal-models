@@ -14,28 +14,7 @@ This is the repository of **A survey on image-text multimodal models**, the arti
 
 ## Abstract
 
-From the perspective of the multimodal, the field of artificial intelligence has
-made significant breakthroughs, notably the advent and evolution of large-scale
-pretrained models. In the domain of Natural Language Processing (NLP) and
-Computer Vision (CV), these models leverage extensive data learning and vast
-parameters, operating in a data-driven manner, thereby reducing the reliance on
-intricate feature engineering and task-specific model designs. However, the poten-
-tial of these large pretrained models is progressively being revealed in image-text
-tasks. Numerous studies indicate that the joint representation of images and text
-can provide a richer semantic context for information. Hence, the application of
-large pretrained models in image-text tasks has garnered widespread attention.
-Despite the remarkable success of large pretrained models in image-text tasks,
-there remain numerous challenges and issues. This article aims to provide a com-
-prehensive review of the development of large pretrained models in image-text
-tasks and suggest potential solutions to relevant challenges and problems. We
-first delves into the fundamental concepts and developmental history of large pre-
-trained models, and then demonstrates the actual effectiveness and application
-value of pretrained models in image-text tasks through a series of specific use
-cases. The paper will probe deeply into the challenges and limitations faced by
-pretrained models. On this basis, potential research directions for large pretrained
-models are explored. we hope that the article will offer a thorough review of the
-current state of research concerning the application of large pretrained models in
-image-text tasks and provide a perspective on its future development trends.
+With the significant advancements of Large Language Models (LLMs) in the field of Natural Language Processing (NLP), the development of image-text multimodal models has garnered widespread attention. These models demonstrate immense potential in processing and integrating visual and textual information, particularly in areas such as multimodal robotics, document intelligence, and biomedicine. This paper provides a comprehensive review of the technological evolution of image-text multimodal models, from early explorations of feature space to the latest large model architectures. It emphasizes the pivotal role of attention mechanisms and their derivative architectures in advancing multimodal model development. Through case studies in the biomedical domain, we reveal the symbiotic relationship between the development of general technologies and their domain-specific applications, showcasing the practical applications and technological improvements of image-text multimodal models in addressing specific domain challenges. Our research not only offers an in-depth analysis of the technological progression of image-text multimodal models but also highlights the importance of integrating technological innovation with practical applications, providing guidance for future research directions. Despite the significant breakthroughs in the development of image-text multimodal models, they still face numerous challenges in domain applications. This paper categorizes these challenges into external factors and intrinsic factors, further subdividing them and proposing targeted strategies and directions for future research. For more details and data, please visit our GitHub page: https://github.com/i2vec A-survey-on-image-text-multimodal-models.
 
 ## Citation
 If you find our work useful in your research, please consider citing:
