@@ -171,8 +171,7 @@ If you find our work useful in your research, please consider citing:
 |[Im2text: Describing images using 1 million captioned photographs](https://papers.nips.cc/paper_files/paper/2011/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html)|NeurlPS 2011|
 |[Gqa: A new dataset for real-world visual reasoning and compositional question answerin](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hudson_GQA_A_New_Dataset_for_Real-World_Visual_Reasoning_and_Compositional_CVPR_2019_paper.pdf)|CVPR 2019|
 |[The open images dataset v4: Unified image classification, object detection, and visual relationship detection at scal](https://link.springer.com/article/10.1007/s11263-020-01316-z)|IJCV 2020|
-|[Fashion iq: A new dataset towards retrieving images by natural
-language feedback](https://users.cs.utah.edu/~ziad/papers/cvpr_2021_fashion_iq.pdf)|CVPR 2021|
+|[Fashion iq: A new dataset towards retrieving images by natural language feedback](https://users.cs.utah.edu/~ziad/papers/cvpr_2021_fashion_iq.pdf)|CVPR 2021|
 |[Conceptual 12m: Pushing web-scale image-text pre-training to recognize long-tail visual concepts](https://openaccess.thecvf.com/content/CVPR2021/papers/Changpinyo_Conceptual_12M_Pushing_Web-Scale_Image-Text_Pre-Training_To_Recognize_Long-Tail_Visual_CVPR_2021_paper.pdf)|CVPR 2021|
 |[Unimo: Towards unified-modal understanding and generation via cross-modal contrastive learnin](https://aclanthology.org/2021.acl-long.202/)|ACL 2021|
 |[Wenlan: Bridging vision and language by large-scale multi-modal pre-training](https://arxiv.org/abs/2103.06561)|arXiv 2021|
@@ -245,7 +244,7 @@ language feedback](https://users.cs.utah.edu/~ziad/papers/cvpr_2021_fashion_iq.p
 |[Transformers in medical imaging: A survey, Medical Image Analysis](https://arxiv.org/abs/2201.09873)|Medical Image Analysis 2023|
 |[A survey of multimodal hybrid deep learning for computer vision: Architectures, applications, trends, and challenges, Information Fusion](https://www.researchgate.net/publication/376993734_A_survey_of_multimodal_hybrid_deep_learning_for_computer_vision_Architectures_applications_trends_and_challenges)|2023|
 |[Incorporating domain knowledge for biomedical text analysis into deep learning: A survey](https://dl.acm.org/doi/abs/10.1016/j.jbi.2023.104418)|Journal of Biomedical Informatics 2023|
-|[Towards electronic health record-based medical knowledge graph construction, completion, and applications: A literature study](https://www.sciencedirect.com/science/article/abs/pii/S1532046423001247)|https://www.sciencedirect.com/science/article/abs/pii/S1532046423001247|
+|[Towards electronic health record-based medical knowledge graph construction, completion, and applications: A literature study](https://www.sciencedirect.com/science/article/abs/pii/S1532046423001247)|2023|
 |[ECOFLAP: EFFICIENT COARSE-TO-FINE LAYER-WISE PRUNING FOR VISION-LANGUAGE MODELS](https://openreview.net/pdf?id=iIT02bAKzv#:~:text=To%20overcome%20this%20limitation%20of,score'%20(Coarse)%20and%20then)|ICLR 2024|
 |[A novel attention-based cross-modal transfer learning framework for predicting cardiovascular disease](https://www.sciencedirect.com/science/article/abs/pii/S0010482524000611)|Computers in Biology and Medicine 2024|
 |[A survey on hallucination in large vision-language models](https://arxiv.org/abs/2402.00253)|arXiv 2024|
@@ -266,8 +265,7 @@ language feedback](https://users.cs.utah.edu/~ziad/papers/cvpr_2021_fashion_iq.p
 |Paper|Published in|
 |---|:---:|
 |[Multiscale Modeling Meets Machine Learning: What Can We Learn?](https://link.springer.com/article/10.1007/s11831-020-09405-5)|2020|
-|[Mitigating Forgetting in Online Continual Learning
-with Neuron Calibration](https://proceedings.neurips.cc/paper/2021/file/54ee290e80589a2a1225c338a71839f5-Paper.pdf)|NeurlPS 2021|
+|[Mitigating Forgetting in Online Continual Learning with Neuron Calibration](https://proceedings.neurips.cc/paper/2021/file/54ee290e80589a2a1225c338a71839f5-Paper.pdf)|NeurlPS 2021|
 |[RDFM: An alternative approach for representing, storing, and maintaining meta-knowledge in web of data](https://www.sciencedirect.com/science/article/abs/pii/S095741742100484X)|2021|
 |[CNN Models Using Chest X-Ray Images for COVID-19 Detection: A Survey](https://scholar.google.com/scholar?q=Cnn+models+using+chest+x-ray+images+for+covid-19+detection:+A+survey&hl=en&as_sdt=0&as_vis=1&oi=scholart)|2023|
 |[Advancing security in the industrial internet of things using deep progressive neural networks](https://link.springer.com/article/10.1007/s11036-023-02104-y)|2023|
