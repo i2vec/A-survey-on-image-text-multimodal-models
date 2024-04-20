@@ -58,6 +58,7 @@ If you find our work useful in your research, please consider citing:
 ### Attention Mechanism and the Rise of Transformers
 |Paper|Published in|
 |---|:---:|
+|[Large-Scale Approximate Kernel Canonical Correlation Analysis](https://www.semanticscholar.org/paper/Large-Scale-Approximate-Kernel-Canonical-Analysis-Wang-Livescu/c15f28fdeacd4bc627fdf1af07e014ff873aece2)|ICLR 2016|
 |[Bilinear attention networks](https://proceedings.neurips.cc/paper_files/paper/2018/file/96ea64f3a1aa2fd00c72faacf0cb8ac9-Paper.pdf)|NeurIPS 2018|
 |[Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks](https://arxiv.org/abs/1908.02265)|NeurIPS 2019|
 |[Lxmert: Learning cross-modality encoder representations from transformers](https://aclanthology.org/D19-1514.pdf)|ACL 2019|
